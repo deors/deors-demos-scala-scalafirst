@@ -1,17 +1,20 @@
 *.class
 *.log
-
-# sbt specific
 .cache
+.cache-main
+.cache-tests
+.classpath
+.gradle/
 .history
-.lib/
-dist/*
+.lib
+.project
+.settings/
+.scala_dependencies
+.worksheet
+build/
+dist/
 target/
 lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-
-# Scala-IDE specific
-.scala_dependencies
-.worksheet
