@@ -1,4 +1,4 @@
-package scalafirst
+package deors.demos.scala.scalafirst
 
 class Rational(n: Int, d: Int) {
 	private val g = gcd(n.abs, d.abs)

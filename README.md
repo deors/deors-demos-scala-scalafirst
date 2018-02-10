@@ -1,4 +1,4 @@
-# deors.demos.scala.scalafirst
+# deors-demos-scala-scalafirst
 Demonstration of a simple Scala project configured with both sbt and Gradle.
 
 Follow these gists as guidelines:

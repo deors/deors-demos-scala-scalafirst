@@ -1,4 +1,4 @@
-package scalafirst
+package deors.demos.scala.scalafirst
 
 object ClassicFirstProgram {
     def main(args: Array[String]): Unit = {

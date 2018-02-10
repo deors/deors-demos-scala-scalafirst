@@ -1,4 +1,4 @@
-name := "scalafirst"
+name := "deors-demos-scala-scalafirst"
 
 scalaVersion := "2.11.8"
 

@@ -1,4 +1,4 @@
-package scalafirst
+package deors.demos.scala.scalafirst
 
 import org.scalatest._
 

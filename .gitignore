@@ -1,5 +1,3 @@
-*.class
-*.log
 .cache
 .cache-main
 .cache-tests
@@ -11,6 +9,7 @@
 .settings/
 .scala_dependencies
 .worksheet
+bin/
 build/
 dist/
 target/
@@ -18,4 +17,3 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-/bin/
